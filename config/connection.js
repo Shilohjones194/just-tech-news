@@ -1,4 +1,4 @@
-const PORT = process.env.PORT || 3001;
+
 // // import the Sequelize constructor from the library
 // const Sequelize = require('sequelize');
 
