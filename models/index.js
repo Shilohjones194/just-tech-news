@@ -1,6 +1,7 @@
 // this file will become more important as we create more models, but for now itll just be for collection and exporting the User model data.
 // 13.1.5//
 // import all models
+// import all models
 const Post = require('./Post');
 const User = require('./User');
 const Vote = require('./Vote');
